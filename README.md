@@ -31,27 +31,5 @@ This project is built with a minimal and clean interface inspired by modern AI c
 **AI Provider**
 - Groq API
 - Model: `openai-os-20b`
-
----
-## 📁 Project Structure
-chatboot-ai
-│
-├── api
-│ └── chat.js # Serverless API function
-│
-├── public
-│ ├── index.html # Main UI
-│ ├── style.css # Styling
-│ ├── script.js # Frontend Logic
-│ └── assets
-│ └── images # Button Icons
-│
-├── package.json
-├── .env # Environment Variables (NOT PUSHED)
-└── .gitignore
-
-
-
-
-## 📁 Project Structure
+- Model: `openai-os-20b`
 
